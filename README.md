@@ -458,3 +458,21 @@ Project Feedback:
 * [ ] El proyecto será entregado subiendo tu código a GitHub.
 * [ ] La interfaz será "desplegada" usando GitHub Pages.
 * [ ] El README contiene una definición del producto.
+
+
+4. Un README que contiene una definición del producto.**  
+En el README cuéntanos cómo pensaste en los usuarios y cuál fue tu proceso
+para definir el producto final a nivel de experiencia y de interfaz.  
+Estas preguntas sirven como guía:
+
+* Quiénes son los principales usuarios de producto.
+Los principales Usuarios son personas mayores de 18 años pues al ser el producto una tarjeta de credito se requiere que el usuario sea una persona mayor de edad que pueda responder por su uso; Tambien artistas que son clientes frecuentes debido al rubro de la tienda y familias en general pues existe la posibilidad de que un padre, madre, o familiar realice uso de la tarjeta entregando el pago o beneficio de un curso, materiales etc. a un otro que desee tomar algun curso de artes o necesite de algun material de arte. 
+
+* Cuáles son los objetivos de estos usuarios en relación con tu producto.
+Poder utilizar la tarjeta de credito de su banco para la compra de articulos de arte, facilitar el pago de cursos y talleres de arte en cuotas permitiendo a los usuarios matricularse y participar de talleres y cursos, tambien le da acceso a ver obras de teatro, exposiciones, presentaciones de artistas, e incluso la compra de obras artisticas que se exponen en galeria.
+El objetivo es facilitar el acceso al arte a todas las personas, permitiendo y generando pagos comodos segun el usuario lo requiera.  
+
+* Cómo crees que el producto que estás creando está resolviendo sus problemas
+Pues facilita el acceso a productos de arte los cuales pueden tener un costos alto y permite el acceso a cursos, talleres, charlas de arte, generando acceso y facilidades de pago segun la necesidad y requerimientos de usuarios. 
+
+<img src="https://res.cloudinary.com/di9bji7ef/image/upload/v1677875432/01_jo0aua.jpg" alt="01">

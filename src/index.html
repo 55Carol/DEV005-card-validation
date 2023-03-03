@@ -1,88 +1,95 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>Tarjeta de crédito válida</title>
-    
-    <link rel="stylesheet" href="./style.css" />
 
-  </head>
+<head>
+  <meta charset="utf-8">
+  <title>Tarjeta de crédito válida</title>
+
+  <link rel="stylesheet" href="./style.css" />
+
+</head>
+
+
+
+<body>
 
   <header>
-    <h1>Pasteleria Artesanal</h1>
+
+    <h1>Tienda de Artes</h1>
+    <h2>
+      Arte Vida
+    </h2>
+    <nav>
+      <a href="#">Inicio</a>
+      <a href="#">Galeria de Arte</a>
+      <a href="#"> Cursos de Arte</a>
+      <a href="#">Productos</a>
+      <a href="#">Contacto</a>
+      <a href="#"> Finanzas</a>
+    </nav>
   </header>
 
-  <h1>
-    Sabor Nativo
-  </h1>
-     
-<nav>
-  <a href="#">Inicio</a>
-  <a href="#">Historia</a>
-  <a href="#">Productos</a>
-  <a href="#">Contactos</a>
-</nav>
- 
+  <div id="container">
 
-  <body>
-      
-    <h2>Productos Naturales, Saludables De Calidad Premiun</h2>
 
-  <!-- agrego texto nombre de usuario-->
+
+
     <main>
-      <article>
-        <h3>Usuario</h3>
-      </article>
+
+
+      <h3>Tarjeta de Crédito</h3>
+
+      <!-- agrego texto nombre de usuario-->
+
+      <h3>Ingrese nombre de usuario en el recuadro</h3>
+
+
+
+
+      <!--cuadro texto nombre de usuario-->
+
+      <form>
+        <input type="text" size="50" name="nombreusuario" id="nombreusuario"
+          placeholder="digite su primer nombre y su primer apellido" />
+
+
+
+
+
+        <h3>Ingrese N° tarjeta de credito en el recuadro</h3>
+
+        <!--cuadro de texto numero de tarjeta-->
+        <input type="text" size="50" name="numerotarjeta" id="numerotarjeta" maxlength="16"
+          placeholder="digite los 16 números de la tarjeta/ ejemplo:1111444455557777" />
+
+
+
+        <!--boton enviar -->
+
+        <ul>
+          <button class="enviarDatos" id="enviarDatos">enviar datos
+
+          </button>
+        </ul>
+
+      </form>
+
     </main>
-     
-  <!--cuadro texto nombre de usuario-->
-    <form>
-     <input type="text" 
-     name="nombreusuario" 
-     id="nombreusuario" 
-     placeholder="digite nombre de usuario"/>
-    </form>
-    
-  
-    <main>
-      <article>
-        <form><h3>N° tarjeta de credito</h3>
-        </form>
-      </article>
-    </main>
-     
-    <!--cuadro de texto numero de tarjeta-->
-    <form>
-      <input type="text" 
-      name="numerotarjeta" 
-      id="numerotarjeta" 
-      placeholder= "digite número  de tarjeta"/>
-    </form>
-    
-     <!--boton enviar --> 
-      <main>
-        <ul></ul>
-        <button class="enviarDatos" id="enviarDatos">enviar datos</button>
-      </ul>
-        </main>
-  </main>
+
+  </div>
 
 
-    <header></header>
-    <main></main>
+  <!--pie de pagina-->
 
 
 
-
-    <!--pie de pagina-->
-    
-    
-    <div class="pie">
-      <footer class="footer">
-    </footer>
-     </div>
+  <footer class="footer pie">
+    <a href="https://github.com/55Carol">github de carol</a>
+  </footer>
 
 
-    <script src="./index.js" type="module"></script>
-  </body>
+
+  <script src="./index.js" type="module"></script>
+</body>
+
 </html>
